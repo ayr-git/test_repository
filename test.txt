@@ -1,3 +1,5 @@
 これはリモ－トリポジトリに作成された、テスト用ファイルです。
 branch decelop1で行の追加を行いました。
 branch develop1でさらに行の追加を行いました。
+branch develop1で「必要な行」を追加しました。
+branch develop1で「不要な行」を追加しました。
