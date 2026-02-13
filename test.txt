@@ -2,4 +2,4 @@
 branch decelop1で行の追加を行いました。
 branch develop1でさらに行の追加を行いました。
 branch mainで「必要な行」を追加しました。
-branch mainで「不要な行」を追加しました。
+branch develop1で「必要な行」を追加しました。
